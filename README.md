@@ -1,4 +1,6 @@
 # ukraine-ml-bootcamp-2023
+https://www.kaggle.com/code/ukrsite/submission-efficientnetb5
+
 https://www.kaggle.com/competitions/ukraine-ml-bootcamp-2023/data
 
 kaggle competitions download -c ukraine-ml-bootcamp-2023
